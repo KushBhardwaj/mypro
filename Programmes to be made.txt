@@ -1,0 +1,7 @@
+Programmes
+
+1. Leap year
+2. Factorial
+3. Greatest no.in string
+4. Toggle string (Small to capital and vice - versa)
+5. Convert string to small 
